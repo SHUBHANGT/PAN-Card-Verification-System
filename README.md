@@ -40,7 +40,7 @@ pan-card-verification/
 │   ├── 2_Pan_Forgery.ipynb
 │   └── 3_Pan_Data_Extraction_And_Processing.ipynb
 │
-├── templates/                  # Reference PAN card templates for SSIM matching, removed for privacy reasons
+├── templates/                  # Reference PAN card templates for SSIM matching
 │   ├── TEMP1.png
 │   ├── TEMP2.jpeg
 │   ├── TEMP3.jpeg
