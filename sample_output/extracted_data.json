@@ -1,0 +1,16 @@
+[
+    {
+        "file_name": "extracted_2024-01-15_10-30-00.json",
+        "DOB": [
+            "15/01/1990"
+        ],
+        "PAN": [
+            "ABCDE1234F"
+        ],
+        "uppercase_strings": [
+            "RAHUL",
+            "KUMAR",
+            "SHARMA"
+        ]
+    }
+]
